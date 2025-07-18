@@ -1,0 +1,9 @@
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/ReceiverApp.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/install.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/ReceiverApp_autogen_timestamp_deps.dir
+/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/ReceiverApp_autogen.dir

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e8a4a55b624b147b5f0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ReceiverApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ReceiverApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReceiverApp-Debug-5a58b53734b3184fe0f9.json",
+					"name" : "ReceiverApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReceiverApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReceiverApp_autogen-Debug-935f76451b0199902420.json",
+					"name" : "ReceiverApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReceiverApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReceiverApp_autogen_timestamp_deps-Debug-2ed25941bdca794d7db5.json",
+					"name" : "ReceiverApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nella/Desktop/ReceiverApp/build/Desktop-Debug",
+		"source" : "/home/nella/Desktop/ReceiverApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,20 @@
+# ninja log v5
+1	27	0	/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	9b092a063e5b78d6
+0	7	0	CMakeFiles/clean.additional	a580357a3f2f5c72
+6741	8483	1752841349060195090	ReceiverApp	e3d7e639e6e92d46
+20	1262	1752840614178919524	ReceiverApp_autogen/mocs_compilation.cpp	c90133598296db8f
+24	6741	1752841347324215502	CMakeFiles/ReceiverApp.dir/mainwindow.cpp.o	c2410894f0750901
+34	606	1752857055239013324	build.ninja	9c5a5f4fc767da38
+23	5670	1752841346254228539	CMakeFiles/ReceiverApp.dir/ReceiverApp_autogen/mocs_compilation.cpp.o	355804e1e9e78749
+20	1262	1752840614178919524	/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/ReceiverApp_autogen/mocs_compilation.cpp	c90133598296db8f
+7	15	0	clean	607a22ff70c029a
+20	1262	1752840614178919524	/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/ReceiverApp_autogen/timestamp	c90133598296db8f
+23	4614	1752841345197241421	CMakeFiles/ReceiverApp.dir/main.cpp.o	6425c47d7a756934
+20	1262	1752840614178919524	ReceiverApp_autogen/timestamp	c90133598296db8f
+1	54	0	/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	9b092a063e5b78d6
+15	100	1752862837288815481	ReceiverApp_autogen/timestamp	c90133598296db8f
+15	100	1752862837288815481	ReceiverApp_autogen/mocs_compilation.cpp	c90133598296db8f
+15	100	1752862837288815481	/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/ReceiverApp_autogen/timestamp	c90133598296db8f
+15	100	1752862837288815481	/home/nella/Desktop/ReceiverApp/build/Desktop-Debug/ReceiverApp_autogen/mocs_compilation.cpp	c90133598296db8f
+105	8501	1752862845686388505	CMakeFiles/ReceiverApp.dir/mainwindow.cpp.o	c2410894f0750901
+8501	11238	1752862848418249602	ReceiverApp	e3d7e639e6e92d46
